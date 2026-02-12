@@ -1,0 +1,14 @@
+{
+  "name": "ovvoc-test-growth-13",
+  "version": "1.0.0",
+  "description": "Blog API with Express and Mongoose",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/index.test.js"
+  },
+  "dependencies": {
+    "express": "4.18.2",
+    "mongoose": "6.12.3"
+  }
+}
